@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @elringo-tech
-- 👀 I’m interested in DeFi, Blockchain, software
-- 🌱 I’m currently learning JavaScript, Solidity, GitHub, Python
+- 👀 I’m interested in Data Science, DeFi, Blockchain 
+- 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on anything that could make me learn more about IT
 - 📫 How to reach me ...
 
